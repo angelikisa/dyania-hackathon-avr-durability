@@ -1,0 +1,20 @@
+# Never commit source health data or patient-level derivatives
+*deidentified*.xlsx
+*deidentified*.csv
+labels.csv
+notes_audit.csv
+data_processed_patient_*.csv
+review/*.xlsx
+reports/*checkpoint*.csv
+
+# Local environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Local exports
+*.log
+.DS_Store

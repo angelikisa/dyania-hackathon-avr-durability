@@ -1,0 +1,13 @@
+PROFILE KEY: Synthetic_Valve_001
+TYPE: Operative Report
+SERVICE DATE: 2011
+NOTES:
+Aortic valve replacement was performed using a 23 mm Perimount bioprosthetic valve via a surgical approach. This is a fully synthetic demonstration record.
+
+--- NOTE ---
+
+PROFILE KEY: Synthetic_Valve_001
+TYPE: Progress Notes
+SERVICE DATE: 2024
+NOTES:
+Synthetic follow-up assessment of a Perimount prosthetic aortic valve (size #23). The peak gradient is 38 mmHg, the mean gradient is 22 mmHg and the dimensionless valve index is 0.31. Mild aortic regurgitation is present. This text is fabricated for software demonstration and does not describe a real patient.
